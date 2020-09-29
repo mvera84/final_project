@@ -1,0 +1,2 @@
+dia_1 se define proyecto final:
+	Predicción de valor de acciones de la Bolsa Mexicana de Valores.
